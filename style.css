@@ -1,18 +1,18 @@
-ul.a { 
+.a { 
   list-style-type: square;
 }
 
-ul.b {  
+.b {  
   list-style-type: upper-roman;
 }
 
-th.c {  
+.c {  
   background-color: lightpink;
   color: white;
-  border-bottom: 2px solid black
+  border-bottom: 2px solid black;
 }
 
-td.d {  
+.d {  
   border-bottom: 3px solid brown;
 }
 
